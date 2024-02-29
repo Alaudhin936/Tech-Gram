@@ -66,7 +66,7 @@ export default function LoginForm() {
             </div>
           </div>
           <div className="submit-btn">
-            <button style={{ color: "white" }}>
+            <button onClick={functiononlogin} style={{ color: "white" }}>
               Login
             </button>
           </div>
