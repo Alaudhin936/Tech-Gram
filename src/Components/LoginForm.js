@@ -5,15 +5,11 @@ import faceBook from "./facebook.png";
 import password from "./padlock.png";
 import playstore from "./playStore.png";
 import appstore from "./Appstore.png";
-import { useNavigate } from "react-router";
-export default function LoginForm() {
-  useEffect(() => {
-    if (loggedIn) {
-      navigate("./userPage");
-    }
-  });
 
-  const navigate = useNavigate();
+export default function LoginForm() {
+
+
+ 
   const [loggedIn, setLoggedIn] = useState(false);
   const [showPassword, setShowPassword] = useState(true);
   function updatePassword() {
@@ -70,7 +66,7 @@ export default function LoginForm() {
             </div>
           </div>
           <div className="submit-btn">
-            <button onClick={functiononlogin} style={{ color: "white" }}>
+            <button style={{ color: "white" }}>
               Login
             </button>
           </div>
