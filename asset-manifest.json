@@ -1,25 +1,19 @@
 {
   "files": {
     "main.css": "/Tech-Gram/static/css/main.c3a0ed41.css",
-    "main.js": "/Tech-Gram/static/js/main.d2dfd507.js",
+    "main.js": "/Tech-Gram/static/js/main.c40bf853.js",
     "static/js/453.88b5de33.chunk.js": "/Tech-Gram/static/js/453.88b5de33.chunk.js",
-    "static/media/myprofile.png": "/Tech-Gram/static/media/myprofile.d30b670dc7b7fca5ea40.png",
     "static/media/MobileLogo.jpg": "/Tech-Gram/static/media/MobileLogo.87672d56c9efb0c85ff9.jpg",
-    "static/media/direction.png": "/Tech-Gram/static/media/direction.8e66ae0feef78a8a4e3a.png",
-    "static/media/messenger.png": "/Tech-Gram/static/media/messenger.ce9b3681a8f034db7169.png",
-    "static/media/heart.png": "/Tech-Gram/static/media/heart.c412cbaead4744166c20.png",
     "static/media/user.png": "/Tech-Gram/static/media/user.c920752422c11377083e.png",
-    "static/media/instagram.png": "/Tech-Gram/static/media/instagram.9836f120000f0e2b6e3c.png",
-    "static/media/loupe.png": "/Tech-Gram/static/media/loupe.1d92f967297920015306.png",
     "static/media/playStore.png": "/Tech-Gram/static/media/playStore.d43e5a101f620bbbe3a9.png",
     "static/media/facebook.png": "/Tech-Gram/static/media/facebook.4f037d961598aff2a0a4.png",
     "index.html": "/Tech-Gram/index.html",
     "main.c3a0ed41.css.map": "/Tech-Gram/static/css/main.c3a0ed41.css.map",
-    "main.d2dfd507.js.map": "/Tech-Gram/static/js/main.d2dfd507.js.map",
+    "main.c40bf853.js.map": "/Tech-Gram/static/js/main.c40bf853.js.map",
     "453.88b5de33.chunk.js.map": "/Tech-Gram/static/js/453.88b5de33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3a0ed41.css",
-    "static/js/main.d2dfd507.js"
+    "static/js/main.c40bf853.js"
   ]
 }
