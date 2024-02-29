@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tech-Gram/static/css/main.c3a0ed41.css",
-    "main.js": "/Tech-Gram/static/js/main.7348c38d.js",
+    "main.js": "/Tech-Gram/static/js/main.d2dfd507.js",
     "static/js/453.88b5de33.chunk.js": "/Tech-Gram/static/js/453.88b5de33.chunk.js",
     "static/media/myprofile.png": "/Tech-Gram/static/media/myprofile.d30b670dc7b7fca5ea40.png",
     "static/media/MobileLogo.jpg": "/Tech-Gram/static/media/MobileLogo.87672d56c9efb0c85ff9.jpg",
@@ -15,11 +15,11 @@
     "static/media/facebook.png": "/Tech-Gram/static/media/facebook.4f037d961598aff2a0a4.png",
     "index.html": "/Tech-Gram/index.html",
     "main.c3a0ed41.css.map": "/Tech-Gram/static/css/main.c3a0ed41.css.map",
-    "main.7348c38d.js.map": "/Tech-Gram/static/js/main.7348c38d.js.map",
+    "main.d2dfd507.js.map": "/Tech-Gram/static/js/main.d2dfd507.js.map",
     "453.88b5de33.chunk.js.map": "/Tech-Gram/static/js/453.88b5de33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3a0ed41.css",
-    "static/js/main.7348c38d.js"
+    "static/js/main.d2dfd507.js"
   ]
 }
