@@ -7,11 +7,8 @@ import UserPage from "./Components/UserPage";
 
 export default function App() {
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<LoginForm />} />
-        <Route path="/userPage" element={<UserPage />} />
-      </Routes>
-    </BrowserRouter>
+   <>
+   <LoginForm/>
+   </>
   );
 }
